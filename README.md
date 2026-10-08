@@ -1,1 +1,3 @@
-https://csun-orm.github.io/comp484-hw3/
+HW3 Links
+
+HW3 - Live Page: https://cosette-csun.github.io/comp484-hw3/
